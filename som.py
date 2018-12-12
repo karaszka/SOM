@@ -3,6 +3,7 @@
 import numpy as np
 import random
 from math import exp, log
+from scipy import signal
 
 
 class onlineSOM():
